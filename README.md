@@ -1,0 +1,2 @@
+# LUSH.CASH
+LUSH.CASH Solidity
